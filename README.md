@@ -1,7 +1,7 @@
 # Procrastination List
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://charlesdefarias.github.io/Week05-to-do-list/
 
 ![image](todo.png)
 
@@ -17,12 +17,3 @@ There are a few things I'd like to add on. Instead of clicking the whole list it
 ## Lessons Learned:
 
 This was my first time using a variable in the HTML through Jquery as well as the this function.
-
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
